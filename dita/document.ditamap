@@ -1,6 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-
 <map id="ditamap-9285">
   <title>Home Fabric and Repair Hub</title>
 
@@ -13,10 +10,12 @@
   <topicref href="Type_of_Repair_Methods.dita"/>
   <topicref href="Basic_Stitches.dita"/>
   <topicref href="Seam_Hole_Repair.dita"/>
-  <topicref href="The_Correct_Patch_Method.dita"/>
+
+  <!-- FIXED NAMES BELOW -->
+  <topicref href="The_Correct_Patch_Method_formatted.dita"/>
   <topicref href="Tool_Checklist.dita"/>
   <topicref href="How_to_Prepare_Needle_and_Thread.dita"/>
-  <topicref href="Stuffed_Animal_Repair.dita"/>
+  <topicref href="Stuffed_Animal_Repair_formatted.dita"/>
   <topicref href="Sew-on_Patches_Repair.dita"/>
   <topicref href="Finishing_the_Repair.dita"/>
 
