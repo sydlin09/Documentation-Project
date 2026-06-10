@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<!DOCTYPE concept
+  PUBLIC '-//OASIS//DTD DITA Concept//EN'
+  'concept.dtd'>
+<concept id="concept-6930" xml:lang="en-us" class="- topic/topic concept/concept ">
+  <title class="- topic/title ">The Correct Patch Method</title>
+  <shortdesc class="- topic/shortdesc ">Learn the differences between common patch types.
+</shortdesc>
+  <prolog class="- topic/prolog ">
+    <author translate="no" type="creator" class="- topic/author ">Sydney Lindain &lt;sglindain@ucdavis.edu&gt;</author>
+    <metadata class="- topic/metadata ">
+      <keywords class="- topic/keywords "/>
+    </metadata>
+  </prolog>
+  <conbody class="- topic/body  concept/conbody ">
+    <p class="- topic/p ">
+      <b class="+ topic/ph hi-d/b ">Iron-on:</b>
+      <ul class="- topic/ul ">
+        <li class="- topic/li ">
+          <p class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">Iron-on: </b>
+            Quick and easy to apply. 
+          </p>
+        </li>
+        <li class="- topic/li ">
+          <p class="- topic/p ">However, they may loosen over time and can damage delicate fabrics when heat is used.
+</p>
+        </li>
+        <li class="- topic/li ">
+          <p class="- topic/p ">Do not use iron-on patches on stuffed animals or fabrics that may melt when exposed to heat.
+</p>
+        </li>
+      </ul>
+    </p>
+    <p class="- topic/p ">
+      <b class="+ topic/ph hi-d/b ">Sew-on</b>
+      :
+    </p>
+    <ul class="- topic/ul ">
+      <li class="- topic/li ">
+        <p class="- topic/p ">Sew-on patches provide the strongest and most durable repair.</p>
+      </li>
+      <li class="- topic/li ">
+        <p class="- topic/p ">They are recommended for frequently used clothing and sentimental items.
+</p>
+      </li>
+    </ul>
+    <p class="- topic/p ">
+      <b class="+ topic/ph hi-d/b ">Warning:</b>
+    </p>
+    <ul class="- topic/ul ">
+      <li class="- topic/li ">
+        <p class="- topic/p ">Do not use iron-on patches on stuffed animals or fabrics that may melt when exposed to heat.
+</p>
+      </li>
+    </ul>
+  </conbody>
+</concept>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<!DOCTYPE task
+  PUBLIC '-//OASIS//DTD DITA Task//EN'
+  'task.dtd'>
+<task id="task-9317" class="- topic/topic task/task ">
+  <title class="- topic/title ">Stuffed Animal Repair</title>
+  <shortdesc class="- topic/shortdesc "/>
+  <taskbody class="- topic/body task/taskbody ">
+    <context class="- topic/section task/context ">Use this procedure when repairing an opening in a stuffed animal.
+</context>
+    <steps class="- topic/ol task/steps ">
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Hide the knot inside the opening.
+</cmd>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Insert the needle through one folded edge.
+</cmd>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Move directly across to the opposite folded edge.</cmd>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Continue sewing back and forth across the opening.
+</cmd>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Pull the thread gently to close the gap.
+</cmd>
+      </step>
+    </steps>
+    <result class="- topic/section task/result ">The opening closes with minimal visible stitching.
+</result>
+  </taskbody>
+</task>
