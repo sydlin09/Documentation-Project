@@ -1,38 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="intro-product" xml:lang="en-us">
- <title>Remote Lighting Overview</title>
- <shortdesc>Remote lighting allows you to operate network-based home lighting through a remote
-  control.</shortdesc>
- <prolog>
-  <author>Kevin Lewis</author>
-  <copyright>
-   <copyryear year="2025"/>
-   <copyrholder>Remote Lighting Enterprises</copyrholder>
-  </copyright>
- </prolog>
- <conbody>
-  <p>The <keyword keyref="product-name"/> kit includes a wireless smart lighting system that helps make the lighting
-   in your home more energy efficient and easier to manage. The kit includes the following
-   components:</p>
-  <dl>
-   <dlentry>
-    <dt>Remote Control</dt>
-    <dd>Allows you to <xref href="how-to-turn-on-off-dim-lights.dita#how-to-turn-on-off-dim-lights"
-      >power on, power off, and dim groups</xref> of lights on your network.</dd>
-   </dlentry>
-   <dlentry>
-    <dt>LED Light Bulbs</dt>
-    <dd>Energy-efficient network light bulbs you can install into standard light fixtures.</dd>
-   </dlentry>
-  </dl>
-  <image href="images/kit.png" id="image-xmw-mxy-3r">
-  <alt>Promotional image of the Remote Lighting Kit showing two light bulbs and a remote control.</alt>
-  </image>
-<note conref="osha-warning.dita#oshawarning/disclaimer" />
- </conbody>
- <related-links>
-  <link href="intro-network-lighting.dita#intro-network-lighting"/>
- </related-links>
-
-</concept>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic-9353" xml:lang="en-us" class="- topic/topic "><title class="- topic/title ">Home Fabric Repair Hub</title><shortdesc class="- topic/shortdesc ">This guide explains how to repair common fabric damage, including split seams, holes in clothing, and tears in stuffed animals. Follow the concepts, tasks, and reference information to choose the best repair method and complete a successful repair.</shortdesc><body class="- topic/body "><p class="- topic/p "> Whether you are fixing a favorite pair of jeans or repairing a sentimental stuffed animal, these instructions will help you create a durable and neat repair.
+<ul class="- topic/ul "><li class="- topic/li "><p class="- topic/p "><b class="+ topic/ph hi-d/b ">How to use this guide:</b></p>
+        <ol class="- topic/ol "><li class="- topic/li "><p class="- topic/p ">Read the concept topics to learn about repair options.</p></li><li class="- topic/li "><p class="- topic/p ">Review the tool checklist to gather materials.</p></li><li class="- topic/li "><p class="- topic/p ">Follow the task that matches your repair situation.</p></li><li class="- topic/li "><p class="- topic/p ">Complete the finishing steps to secure your repair.</p></li></ol></li></ul></p></body></topic>
