@@ -1,32 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
- <title>Remote Lighting Network</title>
- <topicmeta>
-  <author>Kevin Lewis</author>
-  <author>Carlos Evia</author>
- </topicmeta>
- 
- <keydef keys="product-name">
-  <topicmeta>
-   <keywords>
-    <keyword>Remote Network Lighting</keyword>
-   </keywords>
-  </topicmeta>
- </keydef>
- 
- <topicref href="index.dita"/>
- <topicref href="ref-remote-control-components.dita"/>
- <topicref href="intro-network-lighting.dita">
-  <topicref href="intro-max-number-bulbs.dita"/>
-  <topicref href="intro-low-power-networking.dita"/>
- </topicref>
- <topicref href="intro-considerations-planning-light-network.dita"/>
- <topicref href="how-to-program-bulbs-to-groups.dita"/>
- <topicref href="how-to-turn-on-off-dim-lights.dita"/>
- <topicref href="ref-specifications-overview.dita">
-  <topicref href="ref-specifications-remote-control.dita"/>
-  <topicref href="ref-specifications-led-bulb.dita"/>
- </topicref> 
- <topicref href="osha-warning.dita" toc="no" processing-role="resource-only" />
-</map>
+<map id="ditamap-9285" class="- map/map "><title class="- topic/title ">document</title><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle ">Home Fabric and Repair Hub</navtitle></topicmeta><topicref href="index.dita.dita" class="- map/topicref "/><topicref href="Type_of_Repair_Methods.dita" class="- map/topicref "/><topicref href="Basic_Stitches.dita" class="- map/topicref "/><topicref href="Seam_Hole_Repair.dita" class="- map/topicref "/><topicref href="The_Correct_Patch_Method.dita" class="- map/topicref "/><topicref href="Tool_Checklist.dita" class="- map/topicref "/><topicref href="How_to_Prepare_Needle_and_Thread.dita" class="- map/topicref "/><topicref href="Stuffed_Animal_Repair.dita" class="- map/topicref "/><topicref href="Sew-on_Patches_Repair.dita" class="- map/topicref "/><topicref href="Finishing_the_Repair.dita" class="- map/topicref "/></map>
