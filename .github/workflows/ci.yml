@@ -31,8 +31,8 @@ jobs:
             fox.jason.open-graph
 
           build: |
-            dita -i dita/document.ditamap -o out/html -f html5
-            dita -i dita/document.ditamap -o out/pdf -f pdf
+  dita -i dita/document.ditamap -o out/html -f html5
+  dita -i dita/document.ditamap -o out/pdf -f pdf
 
       - name: Deploy HTML 🚀
         uses: JamesIves/github-pages-deploy-action@3.7.1
