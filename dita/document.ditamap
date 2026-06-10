@@ -1,3 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map id="ditamap-9285" class="- map/map "><title class="- topic/title ">document</title><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle ">Home Fabric and Repair Hub</navtitle></topicmeta><topicref href="index.dita.dita" class="- map/topicref "/><topicref href="Type_of_Repair_Methods.dita" class="- map/topicref "/><topicref href="Basic_Stitches.dita" class="- map/topicref "/><topicref href="Seam_Hole_Repair.dita" class="- map/topicref "/><topicref href="The_Correct_Patch_Method.dita" class="- map/topicref "/><topicref href="Tool_Checklist.dita" class="- map/topicref "/><topicref href="How_to_Prepare_Needle_and_Thread.dita" class="- map/topicref "/><topicref href="Stuffed_Animal_Repair.dita" class="- map/topicref "/><topicref href="Sew-on_Patches_Repair.dita" class="- map/topicref "/><topicref href="Finishing_the_Repair.dita" class="- map/topicref "/></map>
+
+<map id="ditamap-9285">
+  <title>Home Fabric and Repair Hub</title>
+
+  <topicmeta>
+    <navtitle>Home Fabric and Repair Hub</navtitle>
+  </topicmeta>
+
+  <topicref href="index.dita"/>
+
+  <topicref href="Type_of_Repair_Methods.dita"/>
+  <topicref href="Basic_Stitches.dita"/>
+  <topicref href="Seam_Hole_Repair.dita"/>
+  <topicref href="The_Correct_Patch_Method.dita"/>
+  <topicref href="Tool_Checklist.dita"/>
+  <topicref href="How_to_Prepare_Needle_and_Thread.dita"/>
+  <topicref href="Stuffed_Animal_Repair.dita"/>
+  <topicref href="Sew-on_Patches_Repair.dita"/>
+  <topicref href="Finishing_the_Repair.dita"/>
+
+</map>
